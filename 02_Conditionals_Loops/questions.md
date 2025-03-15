@@ -4,7 +4,7 @@
 3. **Area & Perimeter of Rectangle & Square**  
 4. **Volume of Cone, Cylinder & Sphere**  
 5. **Surface Area of Cube & Cylinder**  
-6. **Fibonacci Series**  
+6. **Fibonacci Series** (repeated) 
 7. **Find All Factors of a Number**  
 8. **Sum of Numbers Until User Enters 0**  
 9. **Find the Largest Number (Until User Enters 0)**  
