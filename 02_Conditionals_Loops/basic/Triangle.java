@@ -1,4 +1,3 @@
-package basic;
 // Area & Perimeter of Triangle
 import java.util.Scanner;
 

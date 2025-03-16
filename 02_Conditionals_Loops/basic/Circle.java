@@ -1,5 +1,3 @@
-package basic;
-
 // Area & Perimeter of Circle
 
 import java.util.Scanner;

@@ -1,4 +1,3 @@
-package basic;
 // Sum of Numbers Until User Enters 0
 
 import java.util.Scanner;

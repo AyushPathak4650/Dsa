@@ -1,4 +1,3 @@
-package basic;
 // Find the Largest Number (Until User Enters 0)
 
 import java.util.Scanner;

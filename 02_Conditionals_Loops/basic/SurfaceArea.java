@@ -1,4 +1,3 @@
-package basic;
 // Surface Area of Cube & Cylinder
 
 import java.util.Scanner;

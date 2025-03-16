@@ -1,4 +1,3 @@
-package basic;
 // Subtract Product & Sum of Digits
 
 public class ProductSum {

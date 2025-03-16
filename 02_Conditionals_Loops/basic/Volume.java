@@ -1,5 +1,3 @@
-package basic;
-
 // Volume of Cone, Cylinder & Sphere
 
 import java.util.Scanner;

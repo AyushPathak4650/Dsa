@@ -1,5 +1,3 @@
-package basic;
-
 // Area & Perimeter of Rectangle & Square
 
 import java.util.Scanner;

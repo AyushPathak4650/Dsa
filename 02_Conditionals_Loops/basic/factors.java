@@ -1,5 +1,3 @@
-package basic;
-
 // Find All Factors of a Number
 
 import java.util.Scanner;
