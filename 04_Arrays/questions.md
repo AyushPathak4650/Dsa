@@ -12,7 +12,7 @@
 11. Count Items Matching a Rule : [My Solution](https://leetcode.com/problems/count-items-matching-a-rule/submissions/1578152307)  
 12. Find the Highest Altitude : [My Solution](https://leetcode.com/problems/find-the-highest-altitude/submissions/1578172703)  
 13. Flipping an Image : [My Solution](https://leetcode.com/problems/flipping-an-image/submissions/1578198049)
-14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+14. Cells with Odd Values in a Matrix : [My Solution](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/submissions/1623742300/)
 15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
