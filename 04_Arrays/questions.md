@@ -24,9 +24,9 @@
 23. Lucky Number In a Matrix : [My Solution](https://leetcode.com/problems/lucky-numbers-in-a-matrix/submissions/1636158126/)
 24. Maximum Subarray : [My Solution](https://leetcode.com/problems/maximum-subarray/submissions/1637305164/)
 25. Reshape the Matrix : [My Solution](https://leetcode.com/problems/reshape-the-matrix/submissions/1637335953/)
-26. [Plus One](https://leetcode.com/problems/plus-one/)
-27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+26. Plus One : [My Solution](https://leetcode.com/problems/plus-one/submissions/1638206723/)
+27. Remove Duplicates from Sorted Array : [My Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1638218001/)
+28. Minimum Cost to Move Chips to The Same Position : [My Solution](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/submissions/1638228799/)
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
