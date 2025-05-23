@@ -30,7 +30,7 @@
 
 ### Medium
 1. Spiral Matrix : [My Solution](https://leetcode.com/problems/spiral-matrix/submissions/1639607528/)
-2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+2. Spiral Matrix II : [My Solution](https://leetcode.com/problems/spiral-matrix-ii/submissions/1642281504/)
 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
