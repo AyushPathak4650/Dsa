@@ -34,7 +34,7 @@
 3. Spiral Matrix III : [My Solution](https://leetcode.com/problems/spiral-matrix-iii/submissions/1659131466/)
 4. Set Matrix Zeroes : [My Solution](https://leetcode.com/problems/set-matrix-zeroes/submissions/1660447955/)
 5. Product of Array Except Self : [My Solution](https://leetcode.com/problems/product-of-array-except-self/submissions/1663525024/)
-6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+6. Find First and Last Position of Element in Sorted Array : [My Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1664653649/)
 7. [Jump Game](https://leetcode.com/problems/jump-game/)
 8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
