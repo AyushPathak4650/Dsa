@@ -35,10 +35,10 @@
 4. Set Matrix Zeroes : [My Solution](https://leetcode.com/problems/set-matrix-zeroes/submissions/1660447955/)
 5. Product of Array Except Self : [My Solution](https://leetcode.com/problems/product-of-array-except-self/submissions/1663525024/)
 6. Find First and Last Position of Element in Sorted Array : [My Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1664653649/)
-7. [Jump Game](https://leetcode.com/problems/jump-game/)
-8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
-9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
-10. [House Robber](https://leetcode.com/problems/house-robber/)
+7. Jump Game : [My Solution](https://leetcode.com/problems/jump-game/submissions/1667839919/)
+8. Rotate Array : [My Solution](https://leetcode.com/problems/rotate-array/submissions/1672694799/)
+9. Sort Colors : [My Solution](https://leetcode.com/problems/sort-colors/submissions/1673457647/)
+10. House Robber : [My Solution](https://leetcode.com/problems/house-robber/submissions/1676041182/)
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
