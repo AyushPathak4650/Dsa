@@ -7,7 +7,7 @@
 - Arranging Coins(Easy) : [My Solution](https://leetcode.com/submissions/detail/1696003433/)
 - Find Smallest Letter Greater Than Target : [My Solution](https://leetcode.com/submissions/detail/1696019099/)
 - Kth Missing Positive Number : [My Solution](https://leetcode.com/submissions/detail/1696063377/)
-- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- Search Insert Position : [My Solution](https://leetcode.com/submissions/detail/1698077953/)
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
